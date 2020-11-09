@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "Imran Khan",
+    "occupation": "Python FullStack Developer,",
+    "description": "currently employed by Prowesstics IT Services. I work as an ETL developer for a FinTech company",
+    "image": "imr.jpeg",
+    "bio": "I'm passionate about coding and learning new cutting edge technologies. I had done a certification in R programming and learning React JS now. I love travelling and I would like to explore myself well being in Technologies.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "immu1106@gmail.com",
+    "phone": "+91-8939455190",
+    "address": {
+      "street": "4/9, Poogundranar Street, Karungalpalayam",
+      "city": "Erode",
+      "state": "Tamil Nadu",
+      "zip": "638 003"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1MPzsO4QMtZm0glfxA7qZw7WzjWmbXsj9/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/immu1106",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/iam_RKSTR",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/imran-khan-91995031/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/i_am_rkstr/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Imrankhan06/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I would like to share my skills and few technologies that I have experienced in.",
+    "education": [
+      {
+        "school": "SNS College of Engineering",
+        "degree": "B.Tech in Information Technology",
+        "graduated": "May 2015",
+        "description": "Graduated in computer science discipline."
+      }
+    ],
+    "work": [
+      {
+        "company": "Prowesstics IT Services",
+        "title": "Senior Software Engineer ",
+        "years": "July 2019 - Present",
+        "description": "I am working as a python developer for the fintech client which is situated in USA. I am working in an ETL(Extract, Transform and Load) project. We collect data from various resources and do extraction and do some transformations the data based on the client's requirement and load into the datawarehouse(AWS Redshift). I have a capability in handling a team. I'm leading three junior developers in my team right now."
+      },
+      {
+        "company": "Codoid",
+        "title": "Software Developer",
+        "years": "January 2018 - June 2019",
+        "description": "I was a FullStack developer and handled more than three projects. I have a good experience in Flask and Django Frameworks. I was enjoying in learning new technologies and I had a super freedom to come up with some creative thoughts to share with my team members and to this company."
+      },
+      {
+        "company": "Sutherland Global Service",
+        "title": "Senior Specialist",
+        "years": "March 2016 - January 2018",
+        "description": "I was a senior specialist in Workforce Management Team(Forecaster). We do forecast to allocate seats for various programs like MS, DELL, McAfee, etc,.. We use R programming and algorithms to generate the accuracy based on the historical data. We created an internal tool to do the forecast and I think that's my achievement in this very first company :)"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Jquery",
+        "level": "70%"
+      },
+      {
+        "name": "Ajax",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "Flask",
+        "level": "85%"
+      },
+      {
+        "name": "Django",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "80%"
+      },
+      {
+        "name": "Postgresql",
+        "level": "70%"
+      },
+      {
+        "name": "Mongodb",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Prowesstics IT Services",
+        "category": "Business Website",
+        "image": "prowesstics.png",
+        "url": "https://prowesstics.com"
+      }
+    ]
+  }
+}
